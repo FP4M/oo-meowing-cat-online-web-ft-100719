@@ -1,5 +1,5 @@
 class cat 
-  def intitailize(name) (meow)
+  def inititailize(name) (meow)
     @name = name
      @meow = meow 
   end    
